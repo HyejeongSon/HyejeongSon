@@ -1,7 +1,6 @@
-## Hi, I'm Hyejeong
-안녕하세요, 손혜정입니다. <br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC84FF80&width=435&lines=Hi%2C+I'm+Hyejeong!)](https://git.io/typing-svg)
 
-### ✨ About Me
+### About Me
 동국대학교 컴퓨터공학전공 졸업 (2019.03 ~ 2024.02)
 
 네이버 부스트캠프 웹·모바일 9기 챌린지 (2024.07.15 ~ 2024.08.09)
